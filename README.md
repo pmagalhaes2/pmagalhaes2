@@ -3,7 +3,7 @@
 
 ### Sou a Patricia 👋🏽
 
-- 👩🏻‍🎓  Curso Análise de Desenvolvimento de Sistemas na Impacta;
+- 👩🏻‍🎓  Curso Análise e Desenvolvimento de Sistemas na Impacta;
 - 🌱 Atualmente, estou estudando CSS, JavaScript e Vue.js;
 - 💻 Sou estagiária em Análise de Dados na <a href="https://github.com/juntossomosmais" target="_blank">Juntos Somos Mais</a>;
 - 😄 Pronomes: Ela / Dela.
