@@ -4,7 +4,7 @@
 ### Sou a Patricia 👋🏽
 
 - 👩🏻‍🎓  Curso Análise e Desenvolvimento de Sistemas na Impacta;
-- 🌱 Atualmente, estou estudando JavaScript e React;
+- 🌱 Atualmente, estou estudando JavaScript e React.js;
 - 💻 Sou estagiária em Desenvolvimento na <a href="https://github.com/Creditas" target="_blank">Creditas</a>;
 - 😄 Pronomes: Ela / Dela.
 
