@@ -4,7 +4,7 @@
 ### Sou a Patricia 👋🏽
 
 - 👩🏻‍🎓  Curso Análise e Desenvolvimento de Sistemas na Impacta;
-- 🌱 Atualmente, estou estudando JavaScript e Kotlin;
+- 🌱 Atualmente, estou estudando JavaScript, React e Kotlin;
 - 💻 Sou estagiária em Desenvolvimento na <a href="https://github.com/Creditas" target="_blank">Creditas</a>;
 - 😄 Pronomes: Ela / Dela.
 
@@ -23,6 +23,7 @@
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img align="center" alt="Kotlin" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
