@@ -3,7 +3,7 @@
 
 ### Sou a Patricia 👋🏽
 
-- 👩🏻‍🎓  Formada em Análise e Desenvolvimento de Sistemas na Impacta;
+- 👩🏻‍🎓  Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta;
 - 🌱 Atualmente, estou estudando JavaScript e React.js;
 - 😄 Pronomes: Ela / Dela.
 
