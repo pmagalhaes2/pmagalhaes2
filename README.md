@@ -4,7 +4,7 @@
 ### Sou a Patricia 👋🏽
 
 - 👩🏻‍🎓  Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta;
-- 🌱 Atualmente, estou estudando Java e GO;
+- 🌱 Atualmente, estou estudando Java e Angular;
 - 😄 Pronomes: Ela / Dela.
 
 ##
